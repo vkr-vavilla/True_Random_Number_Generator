@@ -1,0 +1,2300 @@
+2025-11-25 12:11:25,616 - INFO - Initializing TRNG components...
+2025-11-25 12:11:26,247 - INFO - Initialization complete.
+2025-11-25 12:11:29,230 - INFO - [Capture] Started worker for https://www.youtube.com/watch?v=wu33CvUsxAE
+2025-11-25 12:11:31,107 - INFO - [Capture] Started worker for https://www.youtube.com/watch?v=EFk6S8R_p6Y
+2025-11-25 12:11:31,258 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,258 - INFO - Time to collect: 5.01 seconds
+2025-11-25 12:11:31,259 - INFO - Generated 256-bit Secure Key: 1f95cdfc94adc6e96eab6f3f2dee1d7dab8f48c8d93dc89b3d90bb353635fab5
+2025-11-25 12:11:31,259 - INFO - Min-Entropy per bit: 0.7905
+2025-11-25 12:11:31,263 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,263 - INFO -   - monobit_test: PASSED (p-value: 0.012419)
+2025-11-25 12:11:31,263 - INFO -   - runs_test: PASSED (p-value: 0.052631)
+2025-11-25 12:11:31,263 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:31,263 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:31,263 - INFO -   - block_frequency_test: PASSED (p-value: 0.353182)
+2025-11-25 12:11:31,263 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.012419)
+2025-11-25 12:11:31,263 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,263 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,263 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,263 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,336 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,336 - INFO - Time to collect: 0.07 seconds
+2025-11-25 12:11:31,336 - INFO - Generated 256-bit Secure Key: 24138dd1098ba712e821f0d35b37bae7c625a4be65298ad1d6547030beed926c
+2025-11-25 12:11:31,336 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:31,337 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,337 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:31,337 - INFO -   - runs_test: PASSED (p-value: 0.372663)
+2025-11-25 12:11:31,337 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:31,337 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:31,337 - INFO -   - block_frequency_test: PASSED (p-value: 0.939413)
+2025-11-25 12:11:31,337 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:31,337 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,337 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,337 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,337 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,411 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,411 - INFO - Time to collect: 0.07 seconds
+2025-11-25 12:11:31,411 - INFO - Generated 256-bit Secure Key: 236fe10e03a9d7ea7371417bb0222e7bab31a8877b267d36488721b46ec6a483
+2025-11-25 12:11:31,411 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:31,412 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,412 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:31,412 - INFO -   - runs_test: PASSED (p-value: 0.805563)
+2025-11-25 12:11:31,412 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:31,412 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:31,412 - INFO -   - block_frequency_test: PASSED (p-value: 0.926656)
+2025-11-25 12:11:31,412 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.661749)
+2025-11-25 12:11:31,412 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,412 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,412 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,412 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,485 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,485 - INFO - Time to collect: 0.07 seconds
+2025-11-25 12:11:31,485 - INFO - Generated 256-bit Secure Key: ab4545aafac927c3208d6bbc14a261fd8b6ca85dd0e3de7c999147485e69d033
+2025-11-25 12:11:31,485 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:31,486 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,486 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:31,486 - INFO -   - runs_test: PASSED (p-value: 0.260146)
+2025-11-25 12:11:31,486 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:31,486 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:31,486 - INFO -   - block_frequency_test: PASSED (p-value: 0.992248)
+2025-11-25 12:11:31,486 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:31,486 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,486 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,486 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,486 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,549 - INFO - [Capture] Started worker for https://www.youtube.com/watch?v=V0SNEApXgNc
+2025-11-25 12:11:31,578 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,578 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:31,578 - INFO - Generated 256-bit Secure Key: ca0128b584fe99c37d8857334ef07b6005b3fe5a8c56aa3c06324b62f72993d2
+2025-11-25 12:11:31,579 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:31,579 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,579 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:31,579 - INFO -   - runs_test: PASSED (p-value: 0.992984)
+2025-11-25 12:11:31,579 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:31,579 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:31,579 - INFO -   - block_frequency_test: PASSED (p-value: 0.961955)
+2025-11-25 12:11:31,579 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:31,579 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,579 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,580 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:31,580 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,660 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,660 - INFO - Time to collect: 0.08 seconds
+2025-11-25 12:11:31,660 - INFO - Generated 256-bit Secure Key: 4385bd627cc60c73a1dfc61b1ec1051f0046e1673a6820c644ef08c18babc240
+2025-11-25 12:11:31,660 - INFO - Min-Entropy per bit: 0.8401
+2025-11-25 12:11:31,661 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,661 - INFO -   - monobit_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:31,661 - INFO -   - runs_test: PASSED (p-value: 0.014738)
+2025-11-25 12:11:31,661 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:31,661 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:31,661 - INFO -   - block_frequency_test: PASSED (p-value: 0.515634)
+2025-11-25 12:11:31,661 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:31,661 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,661 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,661 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,661 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,762 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,762 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:31,762 - INFO - Generated 256-bit Secure Key: 7d50439ebd4bd167d36a64e46b391daffce762386269f938d4fdad4903e1807c
+2025-11-25 12:11:31,762 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:31,763 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,763 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:31,763 - INFO -   - runs_test: PASSED (p-value: 0.562670)
+2025-11-25 12:11:31,763 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:31,763 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:31,763 - INFO -   - block_frequency_test: PASSED (p-value: 0.777140)
+2025-11-25 12:11:31,763 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:31,763 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,763 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,763 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,763 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,862 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,863 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:31,863 - INFO - Generated 256-bit Secure Key: 09de86fff06bd65f566105029a642779893c171e61f9feae6e271d127f5d58eb
+2025-11-25 12:11:31,863 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:31,864 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,864 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:31,864 - INFO -   - runs_test: PASSED (p-value: 0.239309)
+2025-11-25 12:11:31,864 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:31,864 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:31,864 - INFO -   - block_frequency_test: PASSED (p-value: 0.676188)
+2025-11-25 12:11:31,864 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:31,864 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,864 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,864 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,864 - INFO - -------------------------------------
+
+2025-11-25 12:11:31,959 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:31,959 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:31,959 - INFO - Generated 256-bit Secure Key: b8b5c4df41d5942deed2d4838625076f284447ff83c400717b648418f632f888
+2025-11-25 12:11:31,959 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:31,960 - INFO - Randomness Test Results:
+2025-11-25 12:11:31,960 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:31,960 - INFO -   - runs_test: PASSED (p-value: 0.233200)
+2025-11-25 12:11:31,960 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:31,960 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,960 - INFO -   - block_frequency_test: PASSED (p-value: 0.633280)
+2025-11-25 12:11:31,960 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:31,960 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,960 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:31,960 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:31,960 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,056 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,056 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:32,056 - INFO - Generated 256-bit Secure Key: 7c0984c17bc0ed41ee5c7f54f1304d1ff4bad48abbb67268c887864d7af29e27
+2025-11-25 12:11:32,056 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:32,057 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,057 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:32,057 - INFO -   - runs_test: PASSED (p-value: 0.627784)
+2025-11-25 12:11:32,057 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,057 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:32,057 - INFO -   - block_frequency_test: PASSED (p-value: 0.889400)
+2025-11-25 12:11:32,057 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:32,057 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,057 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,057 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,057 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,184 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,184 - INFO - Time to collect: 0.13 seconds
+2025-11-25 12:11:32,184 - INFO - Generated 256-bit Secure Key: b7a145f35bf2255498ce07066910b60e8756bb42bc4dc6efb2ca381df29798e3
+2025-11-25 12:11:32,184 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:32,185 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,185 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:32,185 - INFO -   - runs_test: PASSED (p-value: 0.706917)
+2025-11-25 12:11:32,185 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:32,185 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:32,185 - INFO -   - block_frequency_test: PASSED (p-value: 0.727717)
+2025-11-25 12:11:32,185 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:32,185 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,185 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,185 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,185 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,282 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,282 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:32,282 - INFO - Generated 256-bit Secure Key: 4a2cb8f9825008909082b16b74ee91740fce8bdeb6757abec052058969baeecd
+2025-11-25 12:11:32,283 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:32,283 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,283 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:32,283 - INFO -   - runs_test: PASSED (p-value: 0.304901)
+2025-11-25 12:11:32,283 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:32,283 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:32,283 - INFO -   - block_frequency_test: PASSED (p-value: 0.360380)
+2025-11-25 12:11:32,283 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.091507)
+2025-11-25 12:11:32,283 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,283 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,284 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,284 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,379 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,379 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:32,379 - INFO - Generated 256-bit Secure Key: 10398d3c4fe41bda637830423c6b6cb8f49b59bbf0223a080e0f9501c39df9c9
+2025-11-25 12:11:32,379 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:32,380 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,380 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:32,380 - INFO -   - runs_test: PASSED (p-value: 0.013501)
+2025-11-25 12:11:32,380 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,380 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:32,380 - INFO -   - block_frequency_test: PASSED (p-value: 0.859107)
+2025-11-25 12:11:32,380 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:32,380 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,380 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,380 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,380 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,474 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,474 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:32,474 - INFO - Generated 256-bit Secure Key: 8017d8c765b2d3467c4d888ba681307c195e5fcab1e23a3371f4289ebddacecd
+2025-11-25 12:11:32,474 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:32,475 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,475 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:32,475 - INFO -   - runs_test: PASSED (p-value: 0.708370)
+2025-11-25 12:11:32,475 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,475 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:32,475 - INFO -   - block_frequency_test: PASSED (p-value: 0.517413)
+2025-11-25 12:11:32,475 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.348501)
+2025-11-25 12:11:32,475 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,475 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,475 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,475 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,568 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,568 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:32,568 - INFO - Generated 256-bit Secure Key: 33787a9ec23737bb5a8a7c3ab6861ca215b5c10c46b54639bf8a38b44464ee98
+2025-11-25 12:11:32,568 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:32,569 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,569 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:32,569 - INFO -   - runs_test: PASSED (p-value: 0.529310)
+2025-11-25 12:11:32,569 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,569 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:32,569 - INFO -   - block_frequency_test: PASSED (p-value: 0.772724)
+2025-11-25 12:11:32,569 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:32,569 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,569 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,569 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:32,569 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,665 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,665 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:32,665 - INFO - Generated 256-bit Secure Key: 15f7d4ae59f28607f80d7b97cd2ff4492615c1def69a2eb0cfe0bb0250b40de6
+2025-11-25 12:11:32,665 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:32,666 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,666 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:32,666 - INFO -   - runs_test: PASSED (p-value: 0.394277)
+2025-11-25 12:11:32,666 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:32,666 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,666 - INFO -   - block_frequency_test: PASSED (p-value: 0.702228)
+2025-11-25 12:11:32,666 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:32,666 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,666 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,666 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,666 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,760 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,760 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:32,761 - INFO - Generated 256-bit Secure Key: 774988e5bcad505e43f95f7c7f42b7fad050b2520411eabc0d3eabda5b247cf1
+2025-11-25 12:11:32,761 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:32,761 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,762 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:32,762 - INFO -   - runs_test: PASSED (p-value: 0.775043)
+2025-11-25 12:11:32,762 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:32,762 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:32,762 - INFO -   - block_frequency_test: PASSED (p-value: 0.494206)
+2025-11-25 12:11:32,762 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:32,762 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,762 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,762 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,762 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,858 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,858 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:32,859 - INFO - Generated 256-bit Secure Key: a822d6722ae04c2397aba08dcafe209f843f7b887248681d9a9e595b371d0233
+2025-11-25 12:11:32,859 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:32,859 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,860 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:32,860 - INFO -   - runs_test: PASSED (p-value: 0.742814)
+2025-11-25 12:11:32,860 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,860 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:32,860 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:32,860 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:32,860 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,860 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,860 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,860 - INFO - -------------------------------------
+
+2025-11-25 12:11:32,952 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:32,952 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:32,952 - INFO - Generated 256-bit Secure Key: 9caf713e3dca14129b2ee53cc20fbfa3031a89550d513b6a2c7b1df42233e88c
+2025-11-25 12:11:32,952 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:32,953 - INFO - Randomness Test Results:
+2025-11-25 12:11:32,953 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:32,953 - INFO -   - runs_test: PASSED (p-value: 0.799520)
+2025-11-25 12:11:32,953 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:32,953 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:32,953 - INFO -   - block_frequency_test: PASSED (p-value: 0.674292)
+2025-11-25 12:11:32,953 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:32,953 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,953 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:32,953 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:32,953 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,046 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,047 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,047 - INFO - Generated 256-bit Secure Key: 98c02a740810925dec2e98b51dd9f994f9546f7c177d7fbda0b9e36b7ee8589a
+2025-11-25 12:11:33,047 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:33,048 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,048 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:33,048 - INFO -   - runs_test: PASSED (p-value: 0.829520)
+2025-11-25 12:11:33,048 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:33,048 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:33,048 - INFO -   - block_frequency_test: PASSED (p-value: 0.268180)
+2025-11-25 12:11:33,048 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.150576)
+2025-11-25 12:11:33,048 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,048 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,048 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,050 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,144 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,144 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,144 - INFO - Generated 256-bit Secure Key: e7619cf756f9b32d2c86481f367e25949806f17c7d8f34d0de38179fb2c992f1
+2025-11-25 12:11:33,144 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:33,145 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,145 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:33,145 - INFO -   - runs_test: PASSED (p-value: 0.279973)
+2025-11-25 12:11:33,145 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:33,145 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:33,145 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:33,145 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:33,145 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,145 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,145 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,145 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,238 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,238 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,238 - INFO - Generated 256-bit Secure Key: 0f468c33064e451d7e62baeedec18a6649e6bd77b55a424f112a959cd7ec7fae
+2025-11-25 12:11:33,238 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:33,239 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,239 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:33,239 - INFO -   - runs_test: PASSED (p-value: 0.354644)
+2025-11-25 12:11:33,239 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:33,239 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:33,239 - INFO -   - block_frequency_test: PASSED (p-value: 0.676188)
+2025-11-25 12:11:33,239 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.348501)
+2025-11-25 12:11:33,239 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,239 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,239 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,239 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,331 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,331 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,331 - INFO - Generated 256-bit Secure Key: cc0e5eb202e4bb2d3e558c4f7d931200ac2acb8be64ff941218f30770107b070
+2025-11-25 12:11:33,331 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:33,332 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,332 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:33,332 - INFO -   - runs_test: PASSED (p-value: 0.153304)
+2025-11-25 12:11:33,332 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:33,332 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:33,332 - INFO -   - block_frequency_test: PASSED (p-value: 0.727717)
+2025-11-25 12:11:33,332 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:33,332 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,332 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,332 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,332 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,425 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,425 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,425 - INFO - Generated 256-bit Secure Key: dd379b67a55467b46b1629dc8538f75a70f20c65dadf4d1891a746f1f0c89a94
+2025-11-25 12:11:33,425 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:33,426 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,426 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:33,426 - INFO -   - runs_test: PASSED (p-value: 0.205205)
+2025-11-25 12:11:33,426 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:33,426 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:33,426 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:33,426 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:33,426 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,426 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,426 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,426 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,517 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,518 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,518 - INFO - Generated 256-bit Secure Key: 6310932260caae73f00e978f954fc0ba86272422763b963b5a52f8c855062dcf
+2025-11-25 12:11:33,518 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:33,518 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,519 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:33,519 - INFO -   - runs_test: PASSED (p-value: 0.961720)
+2025-11-25 12:11:33,519 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:33,519 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:33,519 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:33,519 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:33,519 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,519 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,519 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,519 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,613 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,613 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,614 - INFO - Generated 256-bit Secure Key: 446c3364971e32b2b1d12205357bcb0aecc65295d2735c74ed7f492e91d04787
+2025-11-25 12:11:33,614 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:33,614 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,614 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:33,614 - INFO -   - runs_test: PASSED (p-value: 0.131141)
+2025-11-25 12:11:33,614 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:33,614 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:33,614 - INFO -   - block_frequency_test: PASSED (p-value: 0.719299)
+2025-11-25 12:11:33,614 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:33,615 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,615 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,615 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,615 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,708 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,708 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,708 - INFO - Generated 256-bit Secure Key: 3dad2c0e371855dc11dc4284d827949fb76f14aced34ec29142436362f81cb1e
+2025-11-25 12:11:33,708 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:33,709 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,709 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:33,709 - INFO -   - runs_test: PASSED (p-value: 0.881047)
+2025-11-25 12:11:33,709 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:33,709 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:33,709 - INFO -   - block_frequency_test: PASSED (p-value: 0.881649)
+2025-11-25 12:11:33,709 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:33,709 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,709 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,709 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,709 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,798 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,798 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,798 - INFO - Generated 256-bit Secure Key: 852670ecbb99dd53d7d76621ecfebfc4cd49fe838203b624e4bff19413b37cfe
+2025-11-25 12:11:33,798 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:33,799 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,799 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:33,799 - INFO -   - runs_test: PASSED (p-value: 0.185358)
+2025-11-25 12:11:33,799 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:33,799 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:33,799 - INFO -   - block_frequency_test: PASSED (p-value: 0.494206)
+2025-11-25 12:11:33,799 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.069909)
+2025-11-25 12:11:33,799 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,799 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,799 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,799 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,890 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,890 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,890 - INFO - Generated 256-bit Secure Key: c09540d46471b621d0c59babf8fbc445bab858c1824508cb9f518b2ef8be8642
+2025-11-25 12:11:33,890 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:33,891 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,891 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:33,891 - INFO -   - runs_test: PASSED (p-value: 0.863636)
+2025-11-25 12:11:33,891 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:33,891 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:33,891 - INFO -   - block_frequency_test: PASSED (p-value: 0.727717)
+2025-11-25 12:11:33,891 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:33,891 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,891 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,891 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,891 - INFO - -------------------------------------
+
+2025-11-25 12:11:33,983 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:33,983 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:33,984 - INFO - Generated 256-bit Secure Key: 4b53e73a4c4fef12510bc3279d931a71f1786ca662c35816c117d695d97c669f
+2025-11-25 12:11:33,984 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:33,984 - INFO - Randomness Test Results:
+2025-11-25 12:11:33,984 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:33,984 - INFO -   - runs_test: PASSED (p-value: 0.992984)
+2025-11-25 12:11:33,984 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:33,985 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:33,985 - INFO -   - block_frequency_test: PASSED (p-value: 0.961955)
+2025-11-25 12:11:33,985 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:33,985 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,985 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:33,985 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:33,985 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,078 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,078 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:34,078 - INFO - Generated 256-bit Secure Key: 0ee4231c60d038714ff7ee8cf032774804c84042e21b8f0a31daa3d2ed66cc07
+2025-11-25 12:11:34,079 - INFO - Min-Entropy per bit: 0.8707
+2025-11-25 12:11:34,079 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,079 - INFO -   - monobit_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:34,079 - INFO -   - runs_test: PASSED (p-value: 0.033331)
+2025-11-25 12:11:34,079 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:34,079 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:34,079 - INFO -   - block_frequency_test: PASSED (p-value: 0.575439)
+2025-11-25 12:11:34,079 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.069909)
+2025-11-25 12:11:34,079 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,079 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,079 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,080 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,174 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,174 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:34,174 - INFO - Generated 256-bit Secure Key: 78ce560225c19cabfc6163a544605a872a0cd22218e359641666712746051c29
+2025-11-25 12:11:34,174 - INFO - Min-Entropy per bit: 0.8003
+2025-11-25 12:11:34,175 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,175 - INFO -   - monobit_test: PASSED (p-value: 0.017549)
+2025-11-25 12:11:34,175 - INFO -   - runs_test: PASSED (p-value: 0.718487)
+2025-11-25 12:11:34,175 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:34,175 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:34,175 - INFO -   - block_frequency_test: PASSED (p-value: 0.320550)
+2025-11-25 12:11:34,175 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.014789)
+2025-11-25 12:11:34,175 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,175 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,175 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:34,175 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,266 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,267 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:34,267 - INFO - Generated 256-bit Secure Key: c6d6d58f58ed3fba667206f32a75417790642c331d387315440ad913ae18e6b1
+2025-11-25 12:11:34,267 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:34,268 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,268 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:34,268 - INFO -   - runs_test: PASSED (p-value: 0.529310)
+2025-11-25 12:11:34,268 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:34,268 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:34,268 - INFO -   - block_frequency_test: PASSED (p-value: 0.373553)
+2025-11-25 12:11:34,268 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:34,268 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,268 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,268 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,268 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,365 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,365 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:34,365 - INFO - Generated 256-bit Secure Key: 6b1ba45a979521d4473722c39989b063691b9880ea22d6dc8c93e9ec2e0b18bb
+2025-11-25 12:11:34,365 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:34,366 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,366 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:34,366 - INFO -   - runs_test: PASSED (p-value: 0.293261)
+2025-11-25 12:11:34,366 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:34,366 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:34,366 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:34,366 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:34,366 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,366 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,366 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,366 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,460 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,460 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:34,460 - INFO - Generated 256-bit Secure Key: 747d504892fe658d50eaa0a1721462063571c251ae406932e275cef93fa678c1
+2025-11-25 12:11:34,460 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:34,461 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,461 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:34,461 - INFO -   - runs_test: PASSED (p-value: 0.740843)
+2025-11-25 12:11:34,461 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:34,461 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,461 - INFO -   - block_frequency_test: PASSED (p-value: 0.641031)
+2025-11-25 12:11:34,461 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.069909)
+2025-11-25 12:11:34,461 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,461 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,461 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,461 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,561 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,561 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:34,561 - INFO - Generated 256-bit Secure Key: 744fb084a628810039999b94ed2116f9158159914daf52bd6fb986e197e5acf2
+2025-11-25 12:11:34,561 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:34,562 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,562 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:34,562 - INFO -   - runs_test: PASSED (p-value: 0.515430)
+2025-11-25 12:11:34,562 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:34,562 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:34,562 - INFO -   - block_frequency_test: PASSED (p-value: 0.530432)
+2025-11-25 12:11:34,562 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:34,562 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,562 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,562 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,562 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,657 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,658 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:34,658 - INFO - Generated 256-bit Secure Key: f1273e8065e8760025cb9005a029a9f45ef356fd2295a0421cce7d5c8c61281d
+2025-11-25 12:11:34,658 - INFO - Min-Entropy per bit: 0.8707
+2025-11-25 12:11:34,658 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,659 - INFO -   - monobit_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:34,659 - INFO -   - runs_test: PASSED (p-value: 0.458762)
+2025-11-25 12:11:34,659 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:34,659 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:34,659 - INFO -   - block_frequency_test: PASSED (p-value: 0.574512)
+2025-11-25 12:11:34,659 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.091507)
+2025-11-25 12:11:34,659 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,659 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,659 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:34,659 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,758 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,758 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:34,758 - INFO - Generated 256-bit Secure Key: e604ef37ec7134861dc2ddabe5fa3b5f0be7bc25862de9c5fcb64953bde4ba31
+2025-11-25 12:11:34,758 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:34,759 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,759 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:34,759 - INFO -   - runs_test: PASSED (p-value: 0.660775)
+2025-11-25 12:11:34,759 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:34,759 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:34,759 - INFO -   - block_frequency_test: PASSED (p-value: 0.479348)
+2025-11-25 12:11:34,759 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.052684)
+2025-11-25 12:11:34,759 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,759 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,760 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,760 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,856 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,856 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:34,856 - INFO - Generated 256-bit Secure Key: 3547900e1a54679a6198a1d80cfd16ec47e3ba9620fde10c36e853b0df895850
+2025-11-25 12:11:34,856 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:34,857 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,857 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:34,857 - INFO -   - runs_test: PASSED (p-value: 0.286122)
+2025-11-25 12:11:34,857 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:34,857 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:34,857 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:34,857 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:34,857 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,857 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,857 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,857 - INFO - -------------------------------------
+
+2025-11-25 12:11:34,951 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:34,951 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:34,951 - INFO - Generated 256-bit Secure Key: 7ef8285e1b8707a67c211d4a4bfe00c047b45a21e039102c8e64005c24715ed0
+2025-11-25 12:11:34,951 - INFO - Min-Entropy per bit: 0.8102
+2025-11-25 12:11:34,952 - INFO - Randomness Test Results:
+2025-11-25 12:11:34,952 - INFO -   - monobit_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:34,952 - INFO -   - runs_test: FAILED (p-value: 0.009049)
+2025-11-25 12:11:34,952 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:34,952 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:34,952 - INFO -   - block_frequency_test: PASSED (p-value: 0.412786)
+2025-11-25 12:11:34,952 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.020750)
+2025-11-25 12:11:34,952 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,952 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:34,952 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:34,952 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,047 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,047 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,047 - INFO - Generated 256-bit Secure Key: 3df92e1e09ec90c27403e4c2c9313a1111158ebe5c8d8a68941bde888c28063c
+2025-11-25 12:11:35,047 - INFO - Min-Entropy per bit: 0.8301
+2025-11-25 12:11:35,048 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,048 - INFO -   - monobit_test: PASSED (p-value: 0.045500)
+2025-11-25 12:11:35,048 - INFO -   - runs_test: PASSED (p-value: 0.374063)
+2025-11-25 12:11:35,048 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:35,048 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:35,048 - INFO -   - block_frequency_test: PASSED (p-value: 0.373553)
+2025-11-25 12:11:35,048 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.033587)
+2025-11-25 12:11:35,048 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,048 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,048 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,048 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,141 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,141 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,141 - INFO - Generated 256-bit Secure Key: 2d2aea1f56a5f52ab6e56f50306c75bdf42706f953a364e6b075b3ed82ca7c85
+2025-11-25 12:11:35,142 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:35,142 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,142 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:35,142 - INFO -   - runs_test: PASSED (p-value: 0.039976)
+2025-11-25 12:11:35,142 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:35,142 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:35,142 - INFO -   - block_frequency_test: PASSED (p-value: 0.808023)
+2025-11-25 12:11:35,142 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.235030)
+2025-11-25 12:11:35,142 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,143 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,143 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,143 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,236 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,236 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,236 - INFO - Generated 256-bit Secure Key: 78b3537d33b2b36b297b9e8e6edd5040fa557776d299d3ebc4a45274c3df6317
+2025-11-25 12:11:35,236 - INFO - Min-Entropy per bit: 0.8604
+2025-11-25 12:11:35,237 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,237 - INFO -   - monobit_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:35,237 - INFO -   - runs_test: PASSED (p-value: 0.052990)
+2025-11-25 12:11:35,237 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:35,237 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:35,237 - INFO -   - block_frequency_test: PASSED (p-value: 0.522257)
+2025-11-25 12:11:35,237 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:35,237 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,237 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,237 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,237 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,331 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,331 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,331 - INFO - Generated 256-bit Secure Key: 9be71000ffef40b62c2cadbf5b183c009635d7560632c70e842bf562d2eba559
+2025-11-25 12:11:35,331 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:35,332 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,332 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:35,332 - INFO -   - runs_test: PASSED (p-value: 0.710500)
+2025-11-25 12:11:35,332 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:35,332 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:35,332 - INFO -   - block_frequency_test: PASSED (p-value: 0.969707)
+2025-11-25 12:11:35,332 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:35,332 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,332 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,332 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,333 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,428 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,428 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:35,428 - INFO - Generated 256-bit Secure Key: d9390e37a833bca1dd95a99ecfb630b9b20aca04f0a718d76fda7125828d1914
+2025-11-25 12:11:35,428 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:35,429 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,429 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:35,429 - INFO -   - runs_test: PASSED (p-value: 0.614241)
+2025-11-25 12:11:35,429 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:35,429 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:35,429 - INFO -   - block_frequency_test: PASSED (p-value: 0.570839)
+2025-11-25 12:11:35,429 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:35,429 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,429 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,429 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,430 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,523 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,523 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,523 - INFO - Generated 256-bit Secure Key: eff985c2b9bd904b2dd6fecc3972df180d439a2a104b1b232838d309a0affde6
+2025-11-25 12:11:35,523 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:35,524 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,524 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:35,524 - INFO -   - runs_test: PASSED (p-value: 0.455501)
+2025-11-25 12:11:35,524 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:35,524 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:35,524 - INFO -   - block_frequency_test: PASSED (p-value: 0.373553)
+2025-11-25 12:11:35,524 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:35,524 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,524 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,524 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:35,524 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,618 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,618 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,618 - INFO - Generated 256-bit Secure Key: da3c1aaf9be4ed692d759fb3ea224d9fd895ed55f711cc160bf0ed6003e0c6aa
+2025-11-25 12:11:35,618 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:35,619 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,619 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:35,619 - INFO -   - runs_test: PASSED (p-value: 0.753730)
+2025-11-25 12:11:35,619 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:35,619 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:35,619 - INFO -   - block_frequency_test: PASSED (p-value: 0.574512)
+2025-11-25 12:11:35,619 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:35,619 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,619 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,619 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,619 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,713 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,713 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,713 - INFO - Generated 256-bit Secure Key: ddf4e37c0381ebae9002e7558bca042b81024d8e4c38170d578ed9b6fca013cd
+2025-11-25 12:11:35,713 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:35,714 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,714 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:35,714 - INFO -   - runs_test: PASSED (p-value: 0.183146)
+2025-11-25 12:11:35,714 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:35,714 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:35,714 - INFO -   - block_frequency_test: PASSED (p-value: 0.808023)
+2025-11-25 12:11:35,714 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:35,714 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,714 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,714 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,714 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,810 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,811 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:35,811 - INFO - Generated 256-bit Secure Key: f27a4febb087355910fc7dcebc5143a688c759a8d5cc1e904a517cd3f32d8e06
+2025-11-25 12:11:35,811 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:35,811 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,811 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:35,812 - INFO -   - runs_test: PASSED (p-value: 0.996883)
+2025-11-25 12:11:35,812 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:35,812 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:35,812 - INFO -   - block_frequency_test: PASSED (p-value: 0.772724)
+2025-11-25 12:11:35,812 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:35,812 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,812 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,812 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,812 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,903 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,904 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,904 - INFO - Generated 256-bit Secure Key: dd58f97cae6654fabddad5be0ee93d6e49d5dad50a577e91800c25f18ec09169
+2025-11-25 12:11:35,904 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:35,904 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,905 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:35,905 - INFO -   - runs_test: PASSED (p-value: 0.148982)
+2025-11-25 12:11:35,905 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:35,905 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:35,905 - INFO -   - block_frequency_test: PASSED (p-value: 0.308277)
+2025-11-25 12:11:35,905 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.028706)
+2025-11-25 12:11:35,905 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,905 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,905 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,905 - INFO - -------------------------------------
+
+2025-11-25 12:11:35,997 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:35,997 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:35,997 - INFO - Generated 256-bit Secure Key: ec95a7d312f5dd1585cd70978553dab3401d07f322141df2169b67b59d41ddbf
+2025-11-25 12:11:35,997 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:35,998 - INFO - Randomness Test Results:
+2025-11-25 12:11:35,998 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:35,998 - INFO -   - runs_test: PASSED (p-value: 0.508221)
+2025-11-25 12:11:35,998 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:35,998 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:35,998 - INFO -   - block_frequency_test: PASSED (p-value: 0.830565)
+2025-11-25 12:11:35,998 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:35,998 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,998 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:35,998 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:35,998 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,093 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,093 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:36,093 - INFO - Generated 256-bit Secure Key: 1d8c6495d904453442a876d49ef8c8e303c0df9f80e514e7ab1b0d9009437efa
+2025-11-25 12:11:36,093 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:36,094 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,094 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:36,094 - INFO -   - runs_test: PASSED (p-value: 0.414680)
+2025-11-25 12:11:36,094 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:36,094 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:36,094 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:36,094 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:36,094 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,094 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,095 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:36,095 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,190 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,190 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:36,190 - INFO - Generated 256-bit Secure Key: 28c743b5c6aa0548c82f31b44891c600e41d5a121b4ff5582567862c2ccdf503
+2025-11-25 12:11:36,190 - INFO - Min-Entropy per bit: 0.8401
+2025-11-25 12:11:36,191 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,191 - INFO -   - monobit_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:36,191 - INFO -   - runs_test: PASSED (p-value: 0.633884)
+2025-11-25 12:11:36,191 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:36,191 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:36,191 - INFO -   - block_frequency_test: PASSED (p-value: 0.505365)
+2025-11-25 12:11:36,191 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.039160)
+2025-11-25 12:11:36,191 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,191 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,191 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,191 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,290 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,290 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:36,290 - INFO - Generated 256-bit Secure Key: 8027423a786a56e872aa6d43c2a2612d499cf24b12e2f94c11546bb4f0c37c2c
+2025-11-25 12:11:36,290 - INFO - Min-Entropy per bit: 0.8811
+2025-11-25 12:11:36,291 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,291 - INFO -   - monobit_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:36,291 - INFO -   - runs_test: PASSED (p-value: 0.168097)
+2025-11-25 12:11:36,291 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:36,291 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.358795)
+2025-11-25 12:11:36,291 - INFO -   - block_frequency_test: PASSED (p-value: 0.618347)
+2025-11-25 12:11:36,291 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.118170)
+2025-11-25 12:11:36,291 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,291 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,291 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:36,291 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,405 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,405 - INFO - Time to collect: 0.11 seconds
+2025-11-25 12:11:36,406 - INFO - Generated 256-bit Secure Key: beefbb68bfd7157ac567ef08557460f34b188d3d0a4fad91b0ccfed36ec289b1
+2025-11-25 12:11:36,406 - INFO - Min-Entropy per bit: 0.8707
+2025-11-25 12:11:36,406 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,407 - INFO -   - monobit_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:36,407 - INFO -   - runs_test: PASSED (p-value: 0.439869)
+2025-11-25 12:11:36,407 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:36,407 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:36,407 - INFO -   - block_frequency_test: PASSED (p-value: 0.552700)
+2025-11-25 12:11:36,407 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:36,407 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,407 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,407 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,407 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,505 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,505 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:36,505 - INFO - Generated 256-bit Secure Key: 96cab339114dc968f1686dab8ba97ce1516cb5824ed3c04826375250be3b1302
+2025-11-25 12:11:36,505 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:36,506 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,506 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:36,506 - INFO -   - runs_test: PASSED (p-value: 0.068819)
+2025-11-25 12:11:36,506 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:36,506 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,506 - INFO -   - block_frequency_test: PASSED (p-value: 0.633280)
+2025-11-25 12:11:36,506 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:36,506 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,506 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,506 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,506 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,623 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,623 - INFO - Time to collect: 0.12 seconds
+2025-11-25 12:11:36,623 - INFO - Generated 256-bit Secure Key: e2c412edeeed05024af51d2e3a350e42dce2d8f7f24fdbc7f7ac11742456753e
+2025-11-25 12:11:36,623 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:36,624 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,624 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:36,624 - INFO -   - runs_test: PASSED (p-value: 0.971893)
+2025-11-25 12:11:36,624 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:36,624 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:36,624 - INFO -   - block_frequency_test: PASSED (p-value: 0.494206)
+2025-11-25 12:11:36,624 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:36,624 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,624 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,624 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,624 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,740 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,740 - INFO - Time to collect: 0.12 seconds
+2025-11-25 12:11:36,740 - INFO - Generated 256-bit Secure Key: cc965fc9eabe67633af7f05577e6eebaef0b55965144bec176c1b3084fcba19f
+2025-11-25 12:11:36,740 - INFO - Min-Entropy per bit: 0.8301
+2025-11-25 12:11:36,741 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,741 - INFO -   - monobit_test: PASSED (p-value: 0.045500)
+2025-11-25 12:11:36,741 - INFO -   - runs_test: PASSED (p-value: 0.525480)
+2025-11-25 12:11:36,741 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:36,741 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:36,741 - INFO -   - block_frequency_test: PASSED (p-value: 0.507113)
+2025-11-25 12:11:36,741 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:36,741 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,741 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,741 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,741 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,848 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,848 - INFO - Time to collect: 0.11 seconds
+2025-11-25 12:11:36,848 - INFO - Generated 256-bit Secure Key: 27bdb268cdd302dcdd1459ff8046934488cc56cb639434790acd9d1a6ce54373
+2025-11-25 12:11:36,848 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:36,849 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,849 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:36,849 - INFO -   - runs_test: PASSED (p-value: 0.447729)
+2025-11-25 12:11:36,849 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:36,849 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:36,849 - INFO -   - block_frequency_test: PASSED (p-value: 0.961955)
+2025-11-25 12:11:36,849 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:36,849 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,849 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,849 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:36,849 - INFO - -------------------------------------
+
+2025-11-25 12:11:36,948 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:36,948 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:36,948 - INFO - Generated 256-bit Secure Key: 5ed7ab27465de0ec986a5fe27ebca92c11793cd55ea3e9c5840357ad32f2ae32
+2025-11-25 12:11:36,948 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:36,949 - INFO - Randomness Test Results:
+2025-11-25 12:11:36,949 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:36,949 - INFO -   - runs_test: PASSED (p-value: 0.153545)
+2025-11-25 12:11:36,949 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:36,949 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:36,949 - INFO -   - block_frequency_test: PASSED (p-value: 0.732522)
+2025-11-25 12:11:36,949 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:36,949 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,949 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:36,949 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:36,949 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,064 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,064 - INFO - Time to collect: 0.12 seconds
+2025-11-25 12:11:37,064 - INFO - Generated 256-bit Secure Key: 48fe7d930a5b1d9090946fdbad8f9424bbf8c433c3fc30c248d253b9498817f7
+2025-11-25 12:11:37,064 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:37,065 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,065 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:37,065 - INFO -   - runs_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:37,065 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:37,065 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:37,065 - INFO -   - block_frequency_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:37,065 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:37,065 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,065 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,065 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,066 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,166 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,166 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:37,167 - INFO - Generated 256-bit Secure Key: 222610149258d701ab6aee90f38ae8b2e074ffcc2e392deca48992789a53c641
+2025-11-25 12:11:37,167 - INFO - Min-Entropy per bit: 0.8915
+2025-11-25 12:11:37,167 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,167 - INFO -   - monobit_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:37,167 - INFO -   - runs_test: PASSED (p-value: 0.547623)
+2025-11-25 12:11:37,167 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:37,167 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.358795)
+2025-11-25 12:11:37,167 - INFO -   - block_frequency_test: PASSED (p-value: 0.633280)
+2025-11-25 12:11:37,168 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.150576)
+2025-11-25 12:11:37,168 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,168 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,168 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:37,168 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,261 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,262 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:37,262 - INFO - Generated 256-bit Secure Key: 4bd87d535ae6878ce6acc67b76b7dd858b0ac572beb8e3020bbd8ce780813b60
+2025-11-25 12:11:37,262 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:37,262 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,263 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:37,263 - INFO -   - runs_test: PASSED (p-value: 0.907435)
+2025-11-25 12:11:37,263 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:37,263 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:37,263 - INFO -   - block_frequency_test: PASSED (p-value: 0.425923)
+2025-11-25 12:11:37,263 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:37,263 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,263 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,263 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,263 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,360 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,360 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:37,360 - INFO - Generated 256-bit Secure Key: 6ad2a93a0c7269bcd55363f582f21270b09943e93e0a8b165acaa37c28201fd4
+2025-11-25 12:11:37,360 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:37,361 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,361 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:37,361 - INFO -   - runs_test: PASSED (p-value: 0.148982)
+2025-11-25 12:11:37,361 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:37,361 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:37,361 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:37,361 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:37,361 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,361 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,362 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:37,362 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,457 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,458 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:37,458 - INFO - Generated 256-bit Secure Key: ad9cfd209ac17b804eb8197aabe4b79e44495f1235d1aa40267e6dd57e094579
+2025-11-25 12:11:37,458 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:37,459 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,459 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:37,459 - INFO -   - runs_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:37,459 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:37,459 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:37,459 - INFO -   - block_frequency_test: PASSED (p-value: 0.868815)
+2025-11-25 12:11:37,459 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:37,459 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,459 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,459 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,459 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,558 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,558 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:37,558 - INFO - Generated 256-bit Secure Key: 27db33aa7e4167400008a6873769f820b11ea7022ecdca625b87e8422bcdf003
+2025-11-25 12:11:37,558 - INFO - Min-Entropy per bit: 0.8707
+2025-11-25 12:11:37,559 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,559 - INFO -   - monobit_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:37,559 - INFO -   - runs_test: PASSED (p-value: 0.104452)
+2025-11-25 12:11:37,559 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:37,559 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:37,559 - INFO -   - block_frequency_test: PASSED (p-value: 0.573340)
+2025-11-25 12:11:37,559 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:37,559 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,559 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,559 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:37,559 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,701 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,701 - INFO - Time to collect: 0.14 seconds
+2025-11-25 12:11:37,701 - INFO - Generated 256-bit Secure Key: 11ddd408a1c0e8942858e378241153f26b6b09d5bb556d570aeb4bb08467bcc1
+2025-11-25 12:11:37,701 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:37,702 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,702 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:37,702 - INFO -   - runs_test: PASSED (p-value: 0.181646)
+2025-11-25 12:11:37,702 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:37,702 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:37,702 - INFO -   - block_frequency_test: PASSED (p-value: 0.487107)
+2025-11-25 12:11:37,702 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:37,702 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,702 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,702 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,702 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,801 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,801 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:37,802 - INFO - Generated 256-bit Secure Key: 62f38ada4bd9a8db1f53be349f3e39ae02bb8f9e69a589a0732fffda2c86ad9a
+2025-11-25 12:11:37,802 - INFO - Min-Entropy per bit: 0.8604
+2025-11-25 12:11:37,802 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,802 - INFO -   - monobit_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:37,802 - INFO -   - runs_test: PASSED (p-value: 0.769475)
+2025-11-25 12:11:37,802 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.135335)
+2025-11-25 12:11:37,802 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:37,802 - INFO -   - block_frequency_test: PASSED (p-value: 0.530432)
+2025-11-25 12:11:37,803 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.069909)
+2025-11-25 12:11:37,803 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,803 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,803 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,803 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,896 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,896 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:37,896 - INFO - Generated 256-bit Secure Key: 76e9fc9a70f3140c69e5386c760e8fa96e6b6e672ec729fa5cd45af6f7d74cb8
+2025-11-25 12:11:37,896 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:37,897 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,897 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:37,897 - INFO -   - runs_test: PASSED (p-value: 0.566466)
+2025-11-25 12:11:37,897 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:37,897 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.358795)
+2025-11-25 12:11:37,897 - INFO -   - block_frequency_test: PASSED (p-value: 0.522406)
+2025-11-25 12:11:37,897 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.052684)
+2025-11-25 12:11:37,897 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,897 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,897 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:37,897 - INFO - -------------------------------------
+
+2025-11-25 12:11:37,991 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:37,991 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:37,991 - INFO - Generated 256-bit Secure Key: 70b55bdcb5661d9ed04814b3bfd74b1d83827482d90eff4ba20e9d9da5657e02
+2025-11-25 12:11:37,991 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:37,992 - INFO - Randomness Test Results:
+2025-11-25 12:11:37,992 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:37,992 - INFO -   - runs_test: PASSED (p-value: 0.700978)
+2025-11-25 12:11:37,992 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:37,992 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:37,992 - INFO -   - block_frequency_test: PASSED (p-value: 0.808023)
+2025-11-25 12:11:37,992 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:37,992 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,992 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:37,992 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:37,992 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,094 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,094 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,095 - INFO - Generated 256-bit Secure Key: 12f29c5544c6d7e9fdfdb47c80859389fda513280ed7ef9801ed86c83597e85e
+2025-11-25 12:11:38,095 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:38,095 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,095 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:38,095 - INFO -   - runs_test: PASSED (p-value: 0.389671)
+2025-11-25 12:11:38,096 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:38,096 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:38,096 - INFO -   - block_frequency_test: PASSED (p-value: 0.939413)
+2025-11-25 12:11:38,096 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:38,096 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,096 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,096 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,096 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,192 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,193 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,193 - INFO - Generated 256-bit Secure Key: 514757498218e3d1dafdcee0d8f5fad51892e4b639524da8e8a62304c105909b
+2025-11-25 12:11:38,193 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:38,193 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,194 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:38,194 - INFO -   - runs_test: PASSED (p-value: 0.293261)
+2025-11-25 12:11:38,194 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:38,194 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:38,194 - INFO -   - block_frequency_test: PASSED (p-value: 0.391017)
+2025-11-25 12:11:38,194 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:38,194 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,194 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,194 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:38,194 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,287 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,287 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:38,287 - INFO - Generated 256-bit Secure Key: 335ab9ee0bb816ceb39ccb17b8c59c7121cc1c1742dce5ae70b6d863720f9df7
+2025-11-25 12:11:38,287 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:38,288 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,288 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:38,288 - INFO -   - runs_test: PASSED (p-value: 0.473733)
+2025-11-25 12:11:38,288 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:38,288 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:38,288 - INFO -   - block_frequency_test: PASSED (p-value: 0.859107)
+2025-11-25 12:11:38,288 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:38,288 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,288 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,288 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,288 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,385 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,385 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,385 - INFO - Generated 256-bit Secure Key: a45261a6ffcc3ca652d0578ca6a67428e3c8c902f9beef4161ee669971447eac
+2025-11-25 12:11:38,385 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:38,386 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,386 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:38,386 - INFO -   - runs_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:38,386 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:38,386 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:38,386 - INFO -   - block_frequency_test: PASSED (p-value: 0.868815)
+2025-11-25 12:11:38,386 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:38,386 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,386 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,386 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,386 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,481 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,481 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:38,481 - INFO - Generated 256-bit Secure Key: a9f2b34fa9b46f81426b700d95e93537cc306a9fa39698cd33e0a1d1e3018ac2
+2025-11-25 12:11:38,481 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:38,482 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,482 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:38,482 - INFO -   - runs_test: PASSED (p-value: 0.790328)
+2025-11-25 12:11:38,482 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:38,482 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:38,482 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:38,482 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:38,482 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,482 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,482 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,482 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,578 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,579 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,579 - INFO - Generated 256-bit Secure Key: 0e0dfbaba4e284f37184fdefbbb8f98caf16cdcaa6b164f68bd3d009e58c60ac
+2025-11-25 12:11:38,579 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:38,580 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,580 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:38,580 - INFO -   - runs_test: PASSED (p-value: 0.742814)
+2025-11-25 12:11:38,580 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:38,580 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,580 - INFO -   - block_frequency_test: PASSED (p-value: 0.676188)
+2025-11-25 12:11:38,580 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:38,580 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,580 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,580 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,580 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,677 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,677 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,677 - INFO - Generated 256-bit Secure Key: bddc38f49ecc95c970eba08c0f15902645250224aab0f071ad4783ceca1c0264
+2025-11-25 12:11:38,677 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:38,678 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,678 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:38,678 - INFO -   - runs_test: PASSED (p-value: 0.952711)
+2025-11-25 12:11:38,678 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:38,678 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:38,678 - INFO -   - block_frequency_test: PASSED (p-value: 0.522406)
+2025-11-25 12:11:38,678 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:38,678 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,678 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,678 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,678 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,774 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,775 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,775 - INFO - Generated 256-bit Secure Key: 3bc57a1dfbc9382fc6602406a4e539d808a35ca32203ad2390fb18a2839a3e8d
+2025-11-25 12:11:38,775 - INFO - Min-Entropy per bit: 0.8915
+2025-11-25 12:11:38,776 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,776 - INFO -   - monobit_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:38,776 - INFO -   - runs_test: PASSED (p-value: 0.363939)
+2025-11-25 12:11:38,776 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:38,776 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:38,776 - INFO -   - block_frequency_test: PASSED (p-value: 0.633280)
+2025-11-25 12:11:38,776 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:38,776 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,776 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,776 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,776 - INFO - -------------------------------------
+
+2025-11-25 12:11:38,873 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:38,873 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:38,873 - INFO - Generated 256-bit Secure Key: 5fd2ab217a0c584b3a5b152ceb78e126d97725c460c057d49a4dced298723d0f
+2025-11-25 12:11:38,873 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:38,874 - INFO - Randomness Test Results:
+2025-11-25 12:11:38,874 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:38,874 - INFO -   - runs_test: PASSED (p-value: 0.209765)
+2025-11-25 12:11:38,874 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:38,874 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:38,874 - INFO -   - block_frequency_test: PASSED (p-value: 0.984496)
+2025-11-25 12:11:38,874 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:38,874 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,874 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:38,874 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:38,874 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,063 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,063 - INFO - Time to collect: 0.19 seconds
+2025-11-25 12:11:39,063 - INFO - Generated 256-bit Secure Key: 25d1307534c4b631252b1bbe9eae19dfe5d9ed05a27ced451c7ee9b7ebfa7dff
+2025-11-25 12:11:39,063 - INFO - Min-Entropy per bit: 0.8102
+2025-11-25 12:11:39,064 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,064 - INFO -   - monobit_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:39,064 - INFO -   - runs_test: PASSED (p-value: 0.746855)
+2025-11-25 12:11:39,064 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:39,064 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:39,064 - INFO -   - block_frequency_test: PASSED (p-value: 0.497717)
+2025-11-25 12:11:39,064 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:39,064 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,064 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,064 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:39,064 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,164 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,164 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,164 - INFO - Generated 256-bit Secure Key: 68e6d18ba306605a974fd03078c047b9c07b504804f51c3727b51fe4dc50a218
+2025-11-25 12:11:39,164 - INFO - Min-Entropy per bit: 0.8604
+2025-11-25 12:11:39,165 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,165 - INFO -   - monobit_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:39,165 - INFO -   - runs_test: PASSED (p-value: 0.140165)
+2025-11-25 12:11:39,165 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:39,165 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:39,165 - INFO -   - block_frequency_test: PASSED (p-value: 0.517413)
+2025-11-25 12:11:39,165 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:39,165 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,165 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,165 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:39,165 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,357 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,357 - INFO - Time to collect: 0.19 seconds
+2025-11-25 12:11:39,358 - INFO - Generated 256-bit Secure Key: 18c43cd113cac3004e0bcc980b02419daa51a9eec9772eb19b9026a668318c4b
+2025-11-25 12:11:39,358 - INFO - Min-Entropy per bit: 0.8201
+2025-11-25 12:11:39,358 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,358 - INFO -   - monobit_test: PASSED (p-value: 0.033587)
+2025-11-25 12:11:39,358 - INFO -   - runs_test: PASSED (p-value: 0.973830)
+2025-11-25 12:11:39,358 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:39,359 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:39,359 - INFO -   - block_frequency_test: PASSED (p-value: 0.484571)
+2025-11-25 12:11:39,359 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:39,359 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,359 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,359 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:39,359 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,462 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,462 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,462 - INFO - Generated 256-bit Secure Key: 71662bbc3fb74eebcb5be89718f368b246812999bc7d1fab385991e0bbc58224
+2025-11-25 12:11:39,463 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:39,463 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,463 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:39,463 - INFO -   - runs_test: PASSED (p-value: 0.919757)
+2025-11-25 12:11:39,463 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:39,463 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:39,463 - INFO -   - block_frequency_test: PASSED (p-value: 0.530432)
+2025-11-25 12:11:39,463 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:39,463 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,464 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,464 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:39,464 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,558 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,558 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:39,558 - INFO - Generated 256-bit Secure Key: 419a61bf0803f6f3a47767141a525447c995cff6602154cca313a7e9ec555402
+2025-11-25 12:11:39,558 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:39,559 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,559 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:39,559 - INFO -   - runs_test: PASSED (p-value: 0.938321)
+2025-11-25 12:11:39,559 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:39,559 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,559 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:39,559 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:39,559 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,559 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,559 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:39,559 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,655 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,655 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,655 - INFO - Generated 256-bit Secure Key: 75a6f9e738cb2d3312d348043fbc2320da046f6e32a45562d99a371bf7655939
+2025-11-25 12:11:39,655 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:39,656 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,656 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:39,656 - INFO -   - runs_test: PASSED (p-value: 0.452639)
+2025-11-25 12:11:39,656 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:39,656 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:39,656 - INFO -   - block_frequency_test: PASSED (p-value: 0.904114)
+2025-11-25 12:11:39,656 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:39,656 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,656 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,656 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:39,656 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,758 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,758 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,758 - INFO - Generated 256-bit Secure Key: 1d812c5084241ae6deeb679cd7da5324bbbd9bac56121af085e2349034667316
+2025-11-25 12:11:39,758 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:39,759 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,759 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:39,759 - INFO -   - runs_test: PASSED (p-value: 0.508221)
+2025-11-25 12:11:39,759 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:39,759 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:39,759 - INFO -   - block_frequency_test: PASSED (p-value: 0.868815)
+2025-11-25 12:11:39,759 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:39,759 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,759 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,759 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:39,759 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,858 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,858 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,858 - INFO - Generated 256-bit Secure Key: 49459730d9660b773a8ec270aa956e7282120b25c35da6066a97be395ff19dad
+2025-11-25 12:11:39,858 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:39,859 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,859 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:39,859 - INFO -   - runs_test: PASSED (p-value: 0.133338)
+2025-11-25 12:11:39,859 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:39,859 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:39,859 - INFO -   - block_frequency_test: PASSED (p-value: 0.961955)
+2025-11-25 12:11:39,859 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.235030)
+2025-11-25 12:11:39,859 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,859 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,859 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:39,859 - INFO - -------------------------------------
+
+2025-11-25 12:11:39,957 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:39,957 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:39,958 - INFO - Generated 256-bit Secure Key: 15b6b99b5a30f26bb473fd4ced770feab07dbb202583bc839787dc78666ab97e
+2025-11-25 12:11:39,958 - INFO - Min-Entropy per bit: 0.8604
+2025-11-25 12:11:39,958 - INFO - Randomness Test Results:
+2025-11-25 12:11:39,958 - INFO -   - monobit_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:39,958 - INFO -   - runs_test: PASSED (p-value: 0.831991)
+2025-11-25 12:11:39,958 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:39,958 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:39,958 - INFO -   - block_frequency_test: PASSED (p-value: 0.539213)
+2025-11-25 12:11:39,958 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.091507)
+2025-11-25 12:11:39,959 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,959 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:39,959 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:39,959 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,055 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,055 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:40,055 - INFO - Generated 256-bit Secure Key: fe59ede2cf57e21ce5c9ccc8c30ac7b2aaab213ad59d742d77c97ed320c9262d
+2025-11-25 12:11:40,055 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:40,056 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,056 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:40,056 - INFO -   - runs_test: PASSED (p-value: 0.148982)
+2025-11-25 12:11:40,056 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,056 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:40,056 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:40,056 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:40,056 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,056 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,056 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,056 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,151 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,151 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:40,151 - INFO - Generated 256-bit Secure Key: 00a55856e25c774646f5f69b4ad71008447c77641fbcbc194921dab6ba61aacf
+2025-11-25 12:11:40,151 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:40,152 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,152 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:40,152 - INFO -   - runs_test: PASSED (p-value: 0.450795)
+2025-11-25 12:11:40,152 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:40,152 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:40,152 - INFO -   - block_frequency_test: PASSED (p-value: 0.772724)
+2025-11-25 12:11:40,152 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.348501)
+2025-11-25 12:11:40,152 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,152 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,152 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,152 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,245 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,245 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:40,245 - INFO - Generated 256-bit Secure Key: 55c5a94469c09204d811e9e9e44fe8ebc0f310fba91bfbecab96b1350d242a5a
+2025-11-25 12:11:40,245 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:40,246 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,246 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:40,246 - INFO -   - runs_test: PASSED (p-value: 0.372663)
+2025-11-25 12:11:40,246 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,246 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:40,246 - INFO -   - block_frequency_test: PASSED (p-value: 0.830565)
+2025-11-25 12:11:40,246 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.189351)
+2025-11-25 12:11:40,246 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,246 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,246 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,246 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,341 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,341 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:40,341 - INFO - Generated 256-bit Secure Key: 8d4797581f699962fbf1b4a0fcaafa20b73751a6c90e5336dc6809b6ef2c9411
+2025-11-25 12:11:40,341 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:40,342 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,342 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:40,342 - INFO -   - runs_test: PASSED (p-value: 0.379336)
+2025-11-25 12:11:40,342 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:40,342 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:40,342 - INFO -   - block_frequency_test: PASSED (p-value: 0.926656)
+2025-11-25 12:11:40,342 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:40,342 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,342 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,342 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,342 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,436 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,436 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:40,436 - INFO - Generated 256-bit Secure Key: 8d04e5fd337bf54d7474183713c5e7863cf7ac79d18846745daca0de96fb05ae
+2025-11-25 12:11:40,436 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:40,437 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,437 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:40,437 - INFO -   - runs_test: PASSED (p-value: 0.660505)
+2025-11-25 12:11:40,437 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,437 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,437 - INFO -   - block_frequency_test: PASSED (p-value: 0.778801)
+2025-11-25 12:11:40,437 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:40,437 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,437 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,437 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,437 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,532 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,532 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:40,532 - INFO - Generated 256-bit Secure Key: deb9b97c9424342a5eafb7f28cc9a7d758896f95080d4c6e24332f5ac800a1df
+2025-11-25 12:11:40,532 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:40,533 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,533 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:40,533 - INFO -   - runs_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:40,533 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,533 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,533 - INFO -   - block_frequency_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:40,533 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:40,533 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,533 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,533 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,533 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,628 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,628 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:40,628 - INFO - Generated 256-bit Secure Key: 15389fde8e2cb532e279485c6fd81391dadbc096330d4df00505a3b877640721
+2025-11-25 12:11:40,628 - INFO - Min-Entropy per bit: 0.9339
+2025-11-25 12:11:40,629 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,629 - INFO -   - monobit_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:40,629 - INFO -   - runs_test: PASSED (p-value: 0.473733)
+2025-11-25 12:11:40,629 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,629 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:40,629 - INFO -   - block_frequency_test: PASSED (p-value: 0.784891)
+2025-11-25 12:11:40,629 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:40,629 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,629 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,629 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,630 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,726 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,726 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:40,727 - INFO - Generated 256-bit Secure Key: d724971b3e69aea620dc0618d7868f3bc4ec2b2c0d9084eaa8000eb04ddddd30
+2025-11-25 12:11:40,727 - INFO - Min-Entropy per bit: 0.8915
+2025-11-25 12:11:40,727 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,727 - INFO -   - monobit_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:40,727 - INFO -   - runs_test: PASSED (p-value: 0.685614)
+2025-11-25 12:11:40,728 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:40,728 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,728 - INFO -   - block_frequency_test: PASSED (p-value: 0.604806)
+2025-11-25 12:11:40,728 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:40,728 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,728 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,728 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,728 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,831 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,831 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:40,831 - INFO - Generated 256-bit Secure Key: f51a32bc0e71afc865f9d90609dd6d619225cdc4ff25342a133dcad5c486dcf2
+2025-11-25 12:11:40,831 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:40,832 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,832 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:40,832 - INFO -   - runs_test: PASSED (p-value: 0.799520)
+2025-11-25 12:11:40,832 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:40,832 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:40,832 - INFO -   - block_frequency_test: PASSED (p-value: 0.969707)
+2025-11-25 12:11:40,832 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:40,832 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,832 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,832 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,832 - INFO - -------------------------------------
+
+2025-11-25 12:11:40,929 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:40,929 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:40,930 - INFO - Generated 256-bit Secure Key: 6bf4eb72d6a88a760d5cd052cc7f4b50c573b3cf68fecbca49b85f523c18629b
+2025-11-25 12:11:40,930 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:40,930 - INFO - Randomness Test Results:
+2025-11-25 12:11:40,930 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:40,930 - INFO -   - runs_test: PASSED (p-value: 0.193004)
+2025-11-25 12:11:40,931 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:40,931 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:40,931 - INFO -   - block_frequency_test: PASSED (p-value: 0.808023)
+2025-11-25 12:11:40,931 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:40,931 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,931 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:40,931 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:40,931 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,026 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,026 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,026 - INFO - Generated 256-bit Secure Key: 459149dbbf6e4a9e79928a4a24d8ef956ea4f212c0719c9133613a94ce5aec4a
+2025-11-25 12:11:41,026 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:41,027 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,027 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:41,027 - INFO -   - runs_test: PASSED (p-value: 0.032764)
+2025-11-25 12:11:41,027 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:41,027 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:41,027 - INFO -   - block_frequency_test: PASSED (p-value: 0.808023)
+2025-11-25 12:11:41,027 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:41,027 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,027 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,027 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,027 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,123 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,123 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,124 - INFO - Generated 256-bit Secure Key: 003def9f662e4dd5058868d408118c64dc91bf59e347818a0be8a484c8aa3c22
+2025-11-25 12:11:41,124 - INFO - Min-Entropy per bit: 0.8401
+2025-11-25 12:11:41,124 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,124 - INFO -   - monobit_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:41,124 - INFO -   - runs_test: PASSED (p-value: 0.506436)
+2025-11-25 12:11:41,124 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:41,124 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:41,125 - INFO -   - block_frequency_test: PASSED (p-value: 0.425923)
+2025-11-25 12:11:41,125 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:41,125 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,125 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,125 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:41,125 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,225 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,225 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,225 - INFO - Generated 256-bit Secure Key: b085d2b0cdd13ba852e3746c5204931dc0d51c4753eef6c6d2fa0cf0af20c928
+2025-11-25 12:11:41,225 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:41,226 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,226 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:41,226 - INFO -   - runs_test: PASSED (p-value: 0.423569)
+2025-11-25 12:11:41,226 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:41,226 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:41,226 - INFO -   - block_frequency_test: PASSED (p-value: 0.777140)
+2025-11-25 12:11:41,226 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.235030)
+2025-11-25 12:11:41,226 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,226 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,226 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,226 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,330 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,330 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,330 - INFO - Generated 256-bit Secure Key: 2855f6f56feb4f8a70a267eb08870c26e2d1d0217d6552160eadd7d5e913874b
+2025-11-25 12:11:41,330 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:41,331 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,331 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:41,331 - INFO -   - runs_test: PASSED (p-value: 0.316809)
+2025-11-25 12:11:41,331 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:41,331 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:41,331 - INFO -   - block_frequency_test: PASSED (p-value: 0.992248)
+2025-11-25 12:11:41,331 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.348501)
+2025-11-25 12:11:41,331 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,331 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,331 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,331 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,434 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,434 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,434 - INFO - Generated 256-bit Secure Key: 6aff3354c3ddc31fd989ac0031e1e08d25bdfcdf32254f399fb7b987cde7ce10
+2025-11-25 12:11:41,435 - INFO - Min-Entropy per bit: 0.8811
+2025-11-25 12:11:41,435 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,435 - INFO -   - monobit_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:41,435 - INFO -   - runs_test: PASSED (p-value: 0.022988)
+2025-11-25 12:11:41,435 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:41,435 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,435 - INFO -   - block_frequency_test: PASSED (p-value: 0.575489)
+2025-11-25 12:11:41,435 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.069909)
+2025-11-25 12:11:41,435 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,436 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,436 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,436 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,531 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,531 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,531 - INFO - Generated 256-bit Secure Key: f1b6a20eaca58668d1c2329e1c2d85c8f774ac231eccf9d275e759bf2724c2d6
+2025-11-25 12:11:41,531 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:41,532 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,532 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:41,532 - INFO -   - runs_test: PASSED (p-value: 0.614241)
+2025-11-25 12:11:41,532 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:41,532 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,532 - INFO -   - block_frequency_test: PASSED (p-value: 0.468831)
+2025-11-25 12:11:41,532 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.453255)
+2025-11-25 12:11:41,532 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,532 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,532 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,532 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,630 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,630 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,630 - INFO - Generated 256-bit Secure Key: 5797c68643fda5212834668265fd5a0c25a4d9a3d0ada526cbfea5c93acc36f2
+2025-11-25 12:11:41,630 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:41,631 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,631 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:41,631 - INFO -   - runs_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:41,631 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:41,631 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:41,631 - INFO -   - block_frequency_test: PASSED (p-value: 0.868815)
+2025-11-25 12:11:41,631 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:41,631 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,631 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,631 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,631 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,829 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,829 - INFO - Time to collect: 0.20 seconds
+2025-11-25 12:11:41,829 - INFO - Generated 256-bit Secure Key: 71c778d77aa8980728c2e5c1b327150dba649cd4b9e74e3d430cd4d505c9a1ad
+2025-11-25 12:11:41,829 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:41,830 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,830 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:41,830 - INFO -   - runs_test: PASSED (p-value: 0.312810)
+2025-11-25 12:11:41,830 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:41,831 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:41,831 - INFO -   - block_frequency_test: PASSED (p-value: 0.934408)
+2025-11-25 12:11:41,831 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:41,831 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,831 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,831 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,831 - INFO - -------------------------------------
+
+2025-11-25 12:11:41,929 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:41,929 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:41,929 - INFO - Generated 256-bit Secure Key: e033154373b1816594305e87d5fa08e66adf0c90be35c9ff82d2e247eb57fe56
+2025-11-25 12:11:41,929 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:41,930 - INFO - Randomness Test Results:
+2025-11-25 12:11:41,930 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:41,930 - INFO -   - runs_test: PASSED (p-value: 0.462283)
+2025-11-25 12:11:41,930 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:41,930 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:41,930 - INFO -   - block_frequency_test: PASSED (p-value: 0.479348)
+2025-11-25 12:11:41,930 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.348501)
+2025-11-25 12:11:41,930 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,930 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:41,930 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:41,930 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,031 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,031 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,032 - INFO - Generated 256-bit Secure Key: 69c512c2fbb561ba85c7cd6fb19eed1877feb098031a738b9f00f437a8248b0a
+2025-11-25 12:11:42,032 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:42,032 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,032 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:42,032 - INFO -   - runs_test: PASSED (p-value: 0.382076)
+2025-11-25 12:11:42,033 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,033 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.038947)
+2025-11-25 12:11:42,033 - INFO -   - block_frequency_test: PASSED (p-value: 0.727717)
+2025-11-25 12:11:42,033 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:42,033 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,033 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,033 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:42,033 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,133 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,133 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,133 - INFO - Generated 256-bit Secure Key: 9aa6688ecaa9c9201f8f0795f329fbd7fe8b06a36d9149662ae07dec1d59b44a
+2025-11-25 12:11:42,133 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:42,134 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,134 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:42,134 - INFO -   - runs_test: PASSED (p-value: 0.447729)
+2025-11-25 12:11:42,134 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,134 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:42,134 - INFO -   - block_frequency_test: PASSED (p-value: 0.934408)
+2025-11-25 12:11:42,134 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:42,134 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,134 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,134 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,134 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,280 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,280 - INFO - Time to collect: 0.15 seconds
+2025-11-25 12:11:42,280 - INFO - Generated 256-bit Secure Key: 8508c6aede61dbcd008758f0039a9fe25d4e1c541acd6aa8dcbc741c3e659fe3
+2025-11-25 12:11:42,281 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:42,281 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,281 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:42,281 - INFO -   - runs_test: PASSED (p-value: 0.382076)
+2025-11-25 12:11:42,281 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:42,281 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:42,282 - INFO -   - block_frequency_test: PASSED (p-value: 0.823808)
+2025-11-25 12:11:42,282 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:42,282 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,282 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,282 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,282 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,383 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,383 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,383 - INFO - Generated 256-bit Secure Key: 641c088fb193416c0ad92dafda843262186488ade5182144eaeb7359896166d7
+2025-11-25 12:11:42,383 - INFO - Min-Entropy per bit: 0.8604
+2025-11-25 12:11:42,384 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,384 - INFO -   - monobit_test: PASSED (p-value: 0.104163)
+2025-11-25 12:11:42,384 - INFO -   - runs_test: PASSED (p-value: 0.239123)
+2025-11-25 12:11:42,384 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,384 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:42,384 - INFO -   - block_frequency_test: PASSED (p-value: 0.522257)
+2025-11-25 12:11:42,384 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.033587)
+2025-11-25 12:11:42,384 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,384 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,384 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,384 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,483 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,483 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,483 - INFO - Generated 256-bit Secure Key: 1d6a90a572538e16560ee3a914789e3d0c1e9926d94dac87a44142a89ca56818
+2025-11-25 12:11:42,483 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:42,484 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,484 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:42,484 - INFO -   - runs_test: PASSED (p-value: 0.066004)
+2025-11-25 12:11:42,484 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:42,484 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:42,484 - INFO -   - block_frequency_test: PASSED (p-value: 0.509896)
+2025-11-25 12:11:42,484 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:42,484 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,484 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,484 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,484 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,587 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,587 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,587 - INFO - Generated 256-bit Secure Key: c459fcd58e39068b1ac37a1fdad7e7377e58234758aab8ab0d3ff3e9b20cfe3a
+2025-11-25 12:11:42,587 - INFO - Min-Entropy per bit: 0.8707
+2025-11-25 12:11:42,588 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,588 - INFO -   - monobit_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:42,588 - INFO -   - runs_test: PASSED (p-value: 0.716932)
+2025-11-25 12:11:42,588 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,588 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:42,588 - INFO -   - block_frequency_test: PASSED (p-value: 0.570839)
+2025-11-25 12:11:42,588 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.118170)
+2025-11-25 12:11:42,588 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,588 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,588 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,588 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,684 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,684 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,685 - INFO - Generated 256-bit Secure Key: 7010440c6ba577ceb5c9384a02e7fa6501eee38d2175a34cd013ff7133e4ee52
+2025-11-25 12:11:42,685 - INFO - Min-Entropy per bit: 0.9666
+2025-11-25 12:11:42,685 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,685 - INFO -   - monobit_test: PASSED (p-value: 0.707660)
+2025-11-25 12:11:42,685 - INFO -   - runs_test: PASSED (p-value: 0.386114)
+2025-11-25 12:11:42,685 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,685 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:42,686 - INFO -   - block_frequency_test: PASSED (p-value: 0.881649)
+2025-11-25 12:11:42,686 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:42,686 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,686 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,686 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,687 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,782 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,782 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,782 - INFO - Generated 256-bit Secure Key: 6e287ac56fd38f42ad91a6467190f0b53c158c1d83b1cdcf0ea99a193fe9fbe2
+2025-11-25 12:11:42,782 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:42,783 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,783 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:42,783 - INFO -   - runs_test: PASSED (p-value: 0.541881)
+2025-11-25 12:11:42,783 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:42,783 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:42,783 - INFO -   - block_frequency_test: PASSED (p-value: 0.889400)
+2025-11-25 12:11:42,783 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:42,783 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,783 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,783 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,784 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,876 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,876 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:42,876 - INFO - Generated 256-bit Secure Key: d5e34cda8d4894f717197fe1348523f6ebbbf1faf2082dce7068f73d404252bf
+2025-11-25 12:11:42,876 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:42,877 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,877 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:42,877 - INFO -   - runs_test: PASSED (p-value: 0.753730)
+2025-11-25 12:11:42,877 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,877 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:42,877 - INFO -   - block_frequency_test: PASSED (p-value: 0.772724)
+2025-11-25 12:11:42,877 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:42,877 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,877 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,877 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:42,879 - INFO - [KeyAuditor] Hamming mean=0.5010, std=0.0311, avg_bit_bias=0.0848, max_bit_bias=0.3000, collisions=False
+2025-11-25 12:11:42,879 - WARNING - [KeyAuditor] Potential correlation or bias detected in recent key batch.
+2025-11-25 12:11:42,879 - INFO - -------------------------------------
+
+2025-11-25 12:11:42,982 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:42,982 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:42,982 - INFO - Generated 256-bit Secure Key: 8af57350e067c2465cdcfbe296776486f71cf0094f5f9a97ce517c3caf374b14
+2025-11-25 12:11:42,982 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:42,983 - INFO - Randomness Test Results:
+2025-11-25 12:11:42,983 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:42,983 - INFO -   - runs_test: PASSED (p-value: 0.850692)
+2025-11-25 12:11:42,983 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:42,983 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:42,983 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:42,983 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:42,983 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,983 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:42,983 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:42,983 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,083 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,083 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,083 - INFO - Generated 256-bit Secure Key: d326fe843f0aeb9c1057c32721e8e5f569ca2b99a32fd688166490fc89fc522e
+2025-11-25 12:11:43,083 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:43,084 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,084 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:43,084 - INFO -   - runs_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:43,084 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:43,084 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:43,084 - INFO -   - block_frequency_test: PASSED (p-value: 0.939413)
+2025-11-25 12:11:43,084 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:43,084 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,084 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,084 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,084 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,180 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,180 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,181 - INFO - Generated 256-bit Secure Key: 84d0663c7c0e59d47d3533da7ad46e1c00e45579d39ecfff99749bc4e37bf196
+2025-11-25 12:11:43,181 - INFO - Min-Entropy per bit: 0.8915
+2025-11-25 12:11:43,181 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,181 - INFO -   - monobit_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:43,181 - INFO -   - runs_test: PASSED (p-value: 0.246285)
+2025-11-25 12:11:43,181 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.188876)
+2025-11-25 12:11:43,181 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000001)
+2025-11-25 12:11:43,182 - INFO -   - block_frequency_test: PASSED (p-value: 0.633280)
+2025-11-25 12:11:43,182 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:43,182 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,182 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,182 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,182 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,274 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,274 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:43,274 - INFO - Generated 256-bit Secure Key: 83c20ac66b4023337bb9e921e69153145c6af542aff883e9bcf84efe312c2f36
+2025-11-25 12:11:43,274 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:43,275 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,275 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:43,275 - INFO -   - runs_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:43,275 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:43,275 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:43,275 - INFO -   - block_frequency_test: PASSED (p-value: 0.465043)
+2025-11-25 12:11:43,275 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:43,275 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,275 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,275 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,275 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,366 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,366 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:43,367 - INFO - Generated 256-bit Secure Key: 1b2b977501ec106b43fede03f03a23db1afe025f8d45f3bea47d031dfa6e9678
+2025-11-25 12:11:43,367 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:43,367 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,367 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:43,367 - INFO -   - runs_test: PASSED (p-value: 0.037217)
+2025-11-25 12:11:43,367 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:43,367 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,367 - INFO -   - block_frequency_test: PASSED (p-value: 0.777140)
+2025-11-25 12:11:43,368 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:43,368 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,368 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,368 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,368 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,459 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,459 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:43,460 - INFO - Generated 256-bit Secure Key: 9d11f597fcb3847ff7162b4a9a1dae429a8004fed6c0a0aceed374d6bb838766
+2025-11-25 12:11:43,460 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:43,460 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,460 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:43,460 - INFO -   - runs_test: PASSED (p-value: 0.980493)
+2025-11-25 12:11:43,460 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:43,460 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:43,460 - INFO -   - block_frequency_test: PASSED (p-value: 0.777140)
+2025-11-25 12:11:43,461 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:43,461 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,461 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,461 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:43,462 - INFO - [KeyAuditor] Hamming mean=0.5021, std=0.0315, avg_bit_bias=0.0830, max_bit_bias=0.3095, collisions=False
+2025-11-25 12:11:43,462 - WARNING - [KeyAuditor] Potential correlation or bias detected in recent key batch.
+2025-11-25 12:11:43,462 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,559 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,560 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,560 - INFO - Generated 256-bit Secure Key: 6ad74222c88963f699ed21d513f6d324818005fd35a91d92b5fa88947bb4f4f3
+2025-11-25 12:11:43,560 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:43,561 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,561 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:43,561 - INFO -   - runs_test: PASSED (p-value: 0.210915)
+2025-11-25 12:11:43,561 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:43,561 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:43,561 - INFO -   - block_frequency_test: PASSED (p-value: 0.992248)
+2025-11-25 12:11:43,561 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:43,561 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,561 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,561 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,561 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,663 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,663 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,663 - INFO - Generated 256-bit Secure Key: a6e366feff32917f80996100c13b7fc4a2519e26f8fd23cb7e21b55a03acb299
+2025-11-25 12:11:43,663 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:43,664 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,664 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:43,664 - INFO -   - runs_test: PASSED (p-value: 0.266801)
+2025-11-25 12:11:43,664 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:43,664 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:43,664 - INFO -   - block_frequency_test: PASSED (p-value: 0.926656)
+2025-11-25 12:11:43,664 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.235030)
+2025-11-25 12:11:43,664 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,664 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,664 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,664 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,764 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,764 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,764 - INFO - Generated 256-bit Secure Key: bff11bf205a754a649cbac195606450df39adf74aa8f3a459926f5825bf3788a
+2025-11-25 12:11:43,764 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:43,765 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,765 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:43,765 - INFO -   - runs_test: PASSED (p-value: 0.309335)
+2025-11-25 12:11:43,765 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:43,765 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:43,765 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:43,765 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:43,765 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,765 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,765 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,765 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,864 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,864 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,865 - INFO - Generated 256-bit Secure Key: bba1d26d25e0c8247ab63c9b6e93a6c1564705de280175008d1ddde9318a746a
+2025-11-25 12:11:43,865 - INFO - Min-Entropy per bit: 0.9232
+2025-11-25 12:11:43,865 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,865 - INFO -   - monobit_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:43,865 - INFO -   - runs_test: PASSED (p-value: 0.423569)
+2025-11-25 12:11:43,865 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:43,866 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:43,866 - INFO -   - block_frequency_test: PASSED (p-value: 0.732522)
+2025-11-25 12:11:43,866 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.235030)
+2025-11-25 12:11:43,866 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,866 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,866 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,866 - INFO - -------------------------------------
+
+2025-11-25 12:11:43,962 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:43,962 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:43,963 - INFO - Generated 256-bit Secure Key: 312f2edee628f86eacdc6e2ff4387ac12fdef89fd7cb9b47d9d770b0eaab6362
+2025-11-25 12:11:43,963 - INFO - Min-Entropy per bit: 0.8102
+2025-11-25 12:11:43,963 - INFO - Randomness Test Results:
+2025-11-25 12:11:43,963 - INFO -   - monobit_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:43,963 - INFO -   - runs_test: PASSED (p-value: 0.952334)
+2025-11-25 12:11:43,963 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:43,963 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:43,963 - INFO -   - block_frequency_test: PASSED (p-value: 0.337591)
+2025-11-25 12:11:43,963 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.012419)
+2025-11-25 12:11:43,964 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,964 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:43,964 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:43,964 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,057 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,057 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,057 - INFO - Generated 256-bit Secure Key: 94a97e9ef2aac15363efbc1dc98ea84f680b023881b5ca823737f83e50d69d28
+2025-11-25 12:11:44,057 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:44,058 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,058 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:44,058 - INFO -   - runs_test: PASSED (p-value: 0.801820)
+2025-11-25 12:11:44,058 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:44,058 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:44,058 - INFO -   - block_frequency_test: PASSED (p-value: 0.517413)
+2025-11-25 12:11:44,058 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.381574)
+2025-11-25 12:11:44,058 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,058 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,058 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,058 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,151 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,151 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,151 - INFO - Generated 256-bit Secure Key: 0ebef045472f827c4ce514295a9b2e7adfc323d26d0bd432b08cf4f1910629ef
+2025-11-25 12:11:44,151 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:44,152 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,152 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:44,152 - INFO -   - runs_test: PASSED (p-value: 0.999221)
+2025-11-25 12:11:44,152 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:44,152 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:44,152 - INFO -   - block_frequency_test: PASSED (p-value: 0.992248)
+2025-11-25 12:11:44,152 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:44,152 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,152 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,152 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,152 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,265 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,265 - INFO - Time to collect: 0.11 seconds
+2025-11-25 12:11:44,265 - INFO - Generated 256-bit Secure Key: c754d2c08184aba7964a14b8ce44c2e7752020077909b8f7c041d05f529d04c5
+2025-11-25 12:11:44,265 - INFO - Min-Entropy per bit: 0.8201
+2025-11-25 12:11:44,266 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,266 - INFO -   - monobit_test: PASSED (p-value: 0.033587)
+2025-11-25 12:11:44,266 - INFO -   - runs_test: PASSED (p-value: 0.924760)
+2025-11-25 12:11:44,266 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:44,266 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:44,266 - INFO -   - block_frequency_test: PASSED (p-value: 0.337327)
+2025-11-25 12:11:44,266 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.028706)
+2025-11-25 12:11:44,266 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,266 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,266 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,266 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,363 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,363 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:44,363 - INFO - Generated 256-bit Secure Key: cd6763496e5801c165a64d3e27e46e6875fcfcd16d4f39591cf8e2a93e229cb8
+2025-11-25 12:11:44,363 - INFO - Min-Entropy per bit: 0.9556
+2025-11-25 12:11:44,364 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,364 - INFO -   - monobit_test: PASSED (p-value: 0.617075)
+2025-11-25 12:11:44,364 - INFO -   - runs_test: PASSED (p-value: 0.987521)
+2025-11-25 12:11:44,364 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:44,364 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:44,364 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:44,364 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:44,364 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,364 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,364 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,364 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,458 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,458 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,458 - INFO - Generated 256-bit Secure Key: 1e3daf27e033dab6482867ac56932330b6bc573490cb20bfead68c583ddf2520
+2025-11-25 12:11:44,458 - INFO - Min-Entropy per bit: 0.9888
+2025-11-25 12:11:44,459 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,459 - INFO -   - monobit_test: PASSED (p-value: 0.900524)
+2025-11-25 12:11:44,459 - INFO -   - runs_test: PASSED (p-value: 0.706917)
+2025-11-25 12:11:44,459 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:44,459 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:44,459 - INFO -   - block_frequency_test: PASSED (p-value: 0.961955)
+2025-11-25 12:11:44,459 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.573775)
+2025-11-25 12:11:44,459 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,459 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,459 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,459 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,554 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,554 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:44,555 - INFO - Generated 256-bit Secure Key: 09cbe04b4d20058c2844fa1b1a4b4d30e364f00b959e32881c2e197385eafa25
+2025-11-25 12:11:44,555 - INFO - Min-Entropy per bit: 0.8301
+2025-11-25 12:11:44,555 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,555 - INFO -   - monobit_test: PASSED (p-value: 0.045500)
+2025-11-25 12:11:44,555 - INFO -   - runs_test: PASSED (p-value: 0.799520)
+2025-11-25 12:11:44,555 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:44,556 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:44,556 - INFO -   - block_frequency_test: PASSED (p-value: 0.470066)
+2025-11-25 12:11:44,556 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.020750)
+2025-11-25 12:11:44,556 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,556 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,556 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,556 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,650 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,650 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,650 - INFO - Generated 256-bit Secure Key: 07449f0621f6beb0ec7c24ba3d2ab7053158e9c1acb87019c66fe86d514fd439
+2025-11-25 12:11:44,650 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:44,651 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,651 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:44,651 - INFO -   - runs_test: PASSED (p-value: 0.619743)
+2025-11-25 12:11:44,651 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:44,651 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:44,651 - INFO -   - block_frequency_test: PASSED (p-value: 0.984496)
+2025-11-25 12:11:44,651 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:44,651 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,651 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,651 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,651 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,751 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,751 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:44,751 - INFO - Generated 256-bit Secure Key: c2bd7060e05801a043957a54904b31a0e9d97bc73c1c12aab95d0f652e284c53
+2025-11-25 12:11:44,751 - INFO - Min-Entropy per bit: 0.8503
+2025-11-25 12:11:44,752 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,752 - INFO -   - monobit_test: PASSED (p-value: 0.080118)
+2025-11-25 12:11:44,752 - INFO -   - runs_test: PASSED (p-value: 0.748789)
+2025-11-25 12:11:44,752 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.263597)
+2025-11-25 12:11:44,752 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:44,752 - INFO -   - block_frequency_test: PASSED (p-value: 0.507113)
+2025-11-25 12:11:44,752 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:44,752 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,752 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,752 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,752 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,844 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,844 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,845 - INFO - Generated 256-bit Secure Key: 7da74ec9c146473500583e71e9b820e07ec8c2d760b7e81f5dc2f20801c97495
+2025-11-25 12:11:44,845 - INFO - Min-Entropy per bit: 0.9125
+2025-11-25 12:11:44,845 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,845 - INFO -   - monobit_test: PASSED (p-value: 0.317311)
+2025-11-25 12:11:44,846 - INFO -   - runs_test: PASSED (p-value: 0.090243)
+2025-11-25 12:11:44,846 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.513417)
+2025-11-25 12:11:44,846 - INFO -   - discrete_fourier_transform_test: PASSED (p-value: 0.135908)
+2025-11-25 12:11:44,846 - INFO -   - block_frequency_test: PASSED (p-value: 0.754598)
+2025-11-25 12:11:44,846 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:44,846 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,846 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,846 - INFO - Key saved to /Users/vamshivavilla/Desktop/TRNG/trng-Arun_Demo/src/../generated_keys.txt
+2025-11-25 12:11:44,847 - INFO - [KeyAuditor] Hamming mean=0.5009, std=0.0327, avg_bit_bias=0.0822, max_bit_bias=0.3182, collisions=False
+2025-11-25 12:11:44,847 - WARNING - [KeyAuditor] Potential correlation or bias detected in recent key batch.
+2025-11-25 12:11:44,848 - INFO - -------------------------------------
+
+2025-11-25 12:11:44,941 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:44,941 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:44,941 - INFO - Generated 256-bit Secure Key: 2170ffeaceba5dc50fa0fe253267d43a0031369150e0b5cad8f13581633a7e72
+2025-11-25 12:11:44,941 - INFO - Min-Entropy per bit: 0.9776
+2025-11-25 12:11:44,942 - INFO - Randomness Test Results:
+2025-11-25 12:11:44,942 - INFO -   - monobit_test: PASSED (p-value: 0.802587)
+2025-11-25 12:11:44,942 - INFO -   - runs_test: PASSED (p-value: 0.534438)
+2025-11-25 12:11:44,942 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.367879)
+2025-11-25 12:11:44,942 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:44,942 - INFO -   - block_frequency_test: PASSED (p-value: 0.570839)
+2025-11-25 12:11:44,942 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.416505)
+2025-11-25 12:11:44,942 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,942 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:44,942 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:44,942 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,041 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,041 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:45,041 - INFO - Generated 256-bit Secure Key: eee326ef8a3ccfcba48e5183db70ecfa2238c9959de24396cc09d37f513591c5
+2025-11-25 12:11:45,041 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:45,042 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,042 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:45,042 - INFO -   - runs_test: PASSED (p-value: 0.725497)
+2025-11-25 12:11:45,042 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,042 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:45,042 - INFO -   - block_frequency_test: PASSED (p-value: 0.618347)
+2025-11-25 12:11:45,042 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.288009)
+2025-11-25 12:11:45,042 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,042 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,042 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,042 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,134 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,134 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:45,134 - INFO - Generated 256-bit Secure Key: bdd6c32d2511ef6f6f002e3b2ec3767e1e667b5e61e9d73f8f42124c4f471b56
+2025-11-25 12:11:45,134 - INFO - Min-Entropy per bit: 0.8811
+2025-11-25 12:11:45,135 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,135 - INFO -   - monobit_test: PASSED (p-value: 0.169131)
+2025-11-25 12:11:45,135 - INFO -   - runs_test: PASSED (p-value: 0.524427)
+2025-11-25 12:11:45,135 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,135 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:45,135 - INFO -   - block_frequency_test: PASSED (p-value: 0.621922)
+2025-11-25 12:11:45,135 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:45,135 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,135 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,135 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,135 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,229 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,229 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:45,229 - INFO - Generated 256-bit Secure Key: 772314a305923bb62c89a38c2d8edcd94a745a0400d47dcbbafe6c6583ce93c4
+2025-11-25 12:11:45,229 - INFO - Min-Entropy per bit: 0.9447
+2025-11-25 12:11:45,230 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,230 - INFO -   - monobit_test: PASSED (p-value: 0.531971)
+2025-11-25 12:11:45,230 - INFO -   - runs_test: PASSED (p-value: 0.881047)
+2025-11-25 12:11:45,230 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,230 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000153)
+2025-11-25 12:11:45,230 - INFO -   - block_frequency_test: PASSED (p-value: 0.904114)
+2025-11-25 12:11:45,230 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.150576)
+2025-11-25 12:11:45,230 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,230 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,230 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,230 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,324 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,324 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:45,324 - INFO - Generated 256-bit Secure Key: 96337ebc054b13f4f5e7eacdaf04a697d3992579c7aea7b7f05993203741a746
+2025-11-25 12:11:45,324 - INFO - Min-Entropy per bit: 0.9020
+2025-11-25 12:11:45,325 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,325 - INFO -   - monobit_test: PASSED (p-value: 0.260589)
+2025-11-25 12:11:45,325 - INFO -   - runs_test: PASSED (p-value: 0.740843)
+2025-11-25 12:11:45,325 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,325 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.008333)
+2025-11-25 12:11:45,325 - INFO -   - block_frequency_test: PASSED (p-value: 0.702228)
+2025-11-25 12:11:45,325 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.060793)
+2025-11-25 12:11:45,325 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,325 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,325 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,325 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,417 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,417 - INFO - Time to collect: 0.09 seconds
+2025-11-25 12:11:45,417 - INFO - Generated 256-bit Secure Key: 5ca5752fed20167dabdd4b19e48a06a1d13aa572ef39c919a333a2a2c8757519
+2025-11-25 12:11:45,417 - INFO - Min-Entropy per bit: 1.0000
+2025-11-25 12:11:45,418 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,418 - INFO -   - monobit_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:45,418 - INFO -   - runs_test: PASSED (p-value: 0.024449)
+2025-11-25 12:11:45,418 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,418 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.001319)
+2025-11-25 12:11:45,418 - INFO -   - block_frequency_test: PASSED (p-value: 1.000000)
+2025-11-25 12:11:45,418 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.491768)
+2025-11-25 12:11:45,418 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,418 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,418 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,418 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,515 - INFO - --- Sufficient Entropy Collected ---
+2025-11-25 12:11:45,515 - INFO - Time to collect: 0.10 seconds
+2025-11-25 12:11:45,515 - INFO - Generated 256-bit Secure Key: 9787651a1708fe096e57b644fdbf6cfaf22ae7e9784a7ea1a85cdb58745ec86c
+2025-11-25 12:11:45,515 - INFO - Min-Entropy per bit: 0.8915
+2025-11-25 12:11:45,516 - INFO - Randomness Test Results:
+2025-11-25 12:11:45,516 - INFO -   - monobit_test: PASSED (p-value: 0.211300)
+2025-11-25 12:11:45,516 - INFO -   - runs_test: PASSED (p-value: 0.726495)
+2025-11-25 12:11:45,516 - INFO -   - longest_run_of_ones_test: PASSED (p-value: 0.716531)
+2025-11-25 12:11:45,516 - INFO -   - discrete_fourier_transform_test: FAILED (p-value: 0.000013)
+2025-11-25 12:11:45,516 - INFO -   - block_frequency_test: PASSED (p-value: 0.666929)
+2025-11-25 12:11:45,516 - INFO -   - cumulative_sums_test: PASSED (p-value: 0.133614)
+2025-11-25 12:11:45,516 - INFO -   - approximate_entropy_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,516 - INFO -   - serial_test: FAILED (p-value: 0.000000)
+2025-11-25 12:11:45,516 - WARNING - Key failed one or more critical tests. Not saving key.
+2025-11-25 12:11:45,516 - INFO - -------------------------------------
+
+2025-11-25 12:11:45,555 - INFO - Shutting down...
